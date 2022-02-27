@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Terrible and wonderful news from Scotland, or, A dreadful warning for usurers and extortioners. Being a full and faithful relation how a most miserable griping usurer and oppressor of the poor, living near John a Grotes house in the Highlands, was on the third of May last past, carried away by an evil-spirit, and hurried too and fro in the air two days together, in the sight of thousands of people, and at last his body torn to pieces, and dropt in several places. / Communicated in a letter from one in the Highlands to a friend in London; dated from Glascow the 12th of May.</title>
+            <author>W. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82345</idno>
+            <idno type="STC">Wing D99B</idno>
+            <idno type="STC">ESTC R174487</idno>
+            <idno type="EEBO-CITATION">45578307</idno>
+            <idno type="OCLC">ocm 45578307</idno>
+            <idno type="VID">172242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2621:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Terrible and wonderful news from Scotland, or, A dreadful warning for usurers and extortioners. Being a full and faithful relation how a most miserable griping usurer and oppressor of the poor, living near John a Grotes house in the Highlands, was on the third of May last past, carried away by an evil-spirit, and hurried too and fro in the air two days together, in the sight of thousands of people, and at last his body torn to pieces, and dropt in several places. / Communicated in a letter from one in the Highlands to a friend in London; dated from Glascow the 12th of May.</title>
+                  <author>W. D.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Huish,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the year, 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 signed: W.D.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172242:1" rendition="simple:additions"/>
+            <p>TERRIBLE and WONDERFUL NEWS FROM SCOTLAND, Or, A Dreadful Warning for USURERS and EXTORTIONERS.</p>
+            <p>BEING A Full and Faithful Relation how a moſt Miſerable Griping Uſurer and Oppreſſor of the Poor, living near <hi>John a Grotes</hi> houſe in the <hi>Highlands,</hi> was on the Third of <hi>May</hi> laſt paſt, carried away by an <hi>Evil-Spirit,</hi> and hurried too and fro in the Air two days together, in the Sight of Thouſands of People, and at laſt his Body Torn to Pieces, and dropt in ſeveral Places.</p>
+            <p>Communicated in a Letter from one in the <hi>Highlands</hi> to a Friend in <hi>London;</hi> Dated from <hi>Glaſcow</hi> the 12th of <hi>May.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Huiſh,</hi> in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172242:2"/>
+            <pb n="1" facs="tcp:172242:2"/>
+            <head>A LETTER, <hi>Conteyning Strange and Terrible News from the</hi> Highlands <hi>in</hi> Scotland.</head>
+            <opener>
+               <salute>Honored and moſt worthy Sir,</salute>
+            </opener>
+            <p>TIs not in the power of Tyme or Abſence to abate in the leaſt that Affection and Re<g ref="char:EOLhyphen"/>ſpect I have for you, which being part of my Soul, muſt be as laſting and Immortal as that, and therefore think not that this cold and barren Country can Chill me into an Indifferency, but that in ſpight of a thouſand Hills that Interpoſe, my better part in paſſionate thoughts and kindneſſes does every day Viſit you; But our Friendſhip is a purer Flame than to need feeding on the Kitching-ſtuff Fewel of Complements, more neceſſary and proper amongſt common acquaintance then intimate Friends I ſhall therefore quit that Hackney-Road, and the rather, for that Fortune has juſt now furniſht me with a moſt ſtrange Accident, the Relation whereof will fill up my Letter, without putting me to any trouble of ſending you any News of State, whereto I muſt acknowledge my ſelf an utter ſtranger; moſt true it is, the thing ſeems ſo wonderful, that I durſt not believe it my ſelf, much leſs ſhould have Im<g ref="char:EOLhyphen"/>poſed
+<pb n="2" facs="tcp:172242:3"/>it on you, till on a moſt ſtrict enquiry I found it univerſally confirmed for an undoubted certainty; and thence am embolden'd to acquaint you with it, as one of the moſt terrible Judgments that has viſibly and extraordinarily inflicted in thie our Age.</p>
+            <p>If my Memory deceive me not, when I had the happineſs of your moſt agreeable Converſation, you told me you were once in theſe <hi>Scottiſh Highlands,</hi> with the moſt noble <hi>Montroſs</hi> of renowned memory, and if ſo, I doubt not but you may have ſeen, or at leaſt heard of <hi>John a Gaunt,</hi> or <hi>John a Grotes</hi> houſe, (as the vulgar call it) 'Tis a Caſtle Scituate beyond <hi>Enderneſs</hi> juſt by the Sands, and for Strength the moſt conſiderable and famous in all thoſe parts; near this houſe there dwelt one deſcended of Vulgar, yet wealthy Parents in the <hi>South</hi> of <hi>Scotland,</hi> his Father having been very Zealous all along in aſ<g ref="char:EOLhyphen"/>ſer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing his Majeſties Cauſe and Intereſt during the Rebellion, but at laſt fearing to be ruined for ſuch his Loyalty, made over all his Eſtate, to the value of 1000. pounds Sterling to this Son, in truſt for his Uſe, but he being naturally of a moſt miſerable Co<g ref="char:EOLhyphen"/>vetous Temper, immediately took the advantage, Seizing all, and turning both his Father and Mother and Eight more of their Children, out of doors to ſhift for themſelves, who were forced in their old age to Beg their Bread till they died; This Inhuman
+<pb n="3" facs="tcp:172242:3"/>Action could not but be deteſted by all that heard of it, and therefore to avoid the odium juſtly due to one ſo unnatural; He reſolved to remove into a place where he was not known, and accordingly came with his ſaid Ill gotten Eſtate into the Highlands and took up his Habitation near the place aforeſaid; making it his Profeſſion to lend out mony to Uſury at exceſ<g ref="char:EOLhyphen"/>ſive Rates, and ſometimes on Pawns of five times the Value, or Morgages of Land if the ſum were any thing Conſiderable, which he would be ſure to ſeize and detain if he were not repaid preciſely at the day agreed upon, by which means he had utterly ruined many hundreds o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Families, and got a vaſt quantity of Goods and Lands to himſelf; Though he had ne<g ref="char:EOLhyphen"/>ver a Child, yet ſuch a curſed Miſer he was, that he was like to ſtarve all his Servants, and has been known not to eat a Bit in four or five days out of pure Covetouſneſs; he would never pay a poor man that workt for him without extraordinary abate<g ref="char:EOLhyphen"/>ments of the <hi>common Rate;</hi> and if they would not yeild to it, bid them ſue him for their Money, which he knew they durſt not, or at leaſt were not able to do; In brief, <hi>Mammon</hi> was his God, and he had ſold himſelf to the <hi>Divel of Covetouſneſs</hi> ſo far, that he regarded not what manner of fraud, deceit, oppreſſion, cruelty, or other villany ſoever he uſed; if it did but bring him in the leaſt <hi>Pecuniary</hi> advan<g ref="char:EOLhyphen"/>tage:
+<pb n="4" facs="tcp:172242:4"/>He was infamouſly famous throughout all thoſe parts for this baſe ſorded humour, and gene<g ref="char:EOLhyphen"/>rally hated, though none durſt ſhew it, becauſe of his power and revengful Nature, So that he lived like a petty Tyrant, oppreſſing his poor Neighbours at his pleaſure; But he muſt give an Account to his <hi>Helliſh Maſter</hi> of all thoſe good <hi>Services,</hi> who <hi>Re<g ref="char:EOLhyphen"/>wards</hi> him accordingly.</p>
+            <p>For behold on <hi>Sunday</hi> the third of <hi>May</hi> laſt paſt, about five a Clock in the afternoon, juſt as people were returning from Kirke, a ſtrange, and mighty ſtorm aroſe on a ſudden, rowling forwards in a direct Line towards this Wretcheſs Houſe, who had, as his Servants ſince relate, imployed himſelf all that <hi>Sacred day</hi> in telling over Bags of his beloved Dirt, but was now gone out into a Garden by the <hi>High-way ſide,</hi> where, out of <hi>Phariſaical oſtentation</hi> on purpoſe to be taken notice of, he ſat with a Bible in his hand; But the before mentioned Whirlwind (for after that manner it appeared) approaching to the place where he ſat, Snatcht him up into the Air, not without moſt Lamentable and affrighting Cries and Screeks, which were quickly drown'd by a terrible volley of Thunder-Claps that ſucceeded, which were no ſooner over but the Sky grew Clear, and the Devil appeared viſible a vaſt Height in the Air, in ſeveral monſtrous Shapes one after another,
+<pb n="5" facs="tcp:172242:4"/>ſometimes as a huge <hi>Lion</hi> holding the <hi>Uſurer</hi> be<g ref="char:EOLhyphen"/>tween his dreadful Claws, ſometimes as a mighty <hi>Serpent</hi> faſt twined about him, ſometimes as a moſt horrible <hi>Bull</hi> all on a Flame, and toſſing him upon his Horns, <hi>&amp;c.</hi> And as he appeared in diverſe ſhapes, ſo he likewiſe after ſhifted places, being ſeen now over one village, and within an Hour or two at another, twenty or thirty miles diſtant; In which manner to the great amazment of thou<g ref="char:EOLhyphen"/>ſands of people that were ſpectators, he continued all <hi>Sunday night, Munday,</hi> and <hi>Munday night,</hi> being ſeen over moſt places within threeſcore miles round, during which time ſeveral Bags of real Money dropt down from him, moſt miraculouſly falling into their yards and grounds whom he had chiefly wronged by his unconſcionable Extortions, but on the <hi>Tueſday</hi> being the fifth of <hi>May,</hi> about ten of the Clock in the Forenoen, the <hi>Black Prince of the Air</hi> appear<g ref="char:EOLhyphen"/>ing again viſibly with his wretched <hi>Priſoner</hi> over the place where he dwelt, and this miſerable Crea<g ref="char:EOLhyphen"/>ture was ſeen to be torn all to peices in a moſt dread<g ref="char:EOLhyphen"/>ful manner, and his Limbs thrown down being ſcatter'd into ſeveral of the adjacent Towns and Villages.</p>
+            <p>When his Limbs were taken up, his Bones ſeem'd, broken in a Thouſand Places, and the Fleſh was burnt as black as <hi>Charcoal;</hi> I ſpoke my ſelf
+<pb n="6" facs="tcp:172242:5"/>with ſeveral perſons that faw it, who affirmed it was impoſſible that a more ſad and deplorable ſight could be ſeen.</p>
+            <p>I hope, Sir, you will Pardon this tedious ſtory, which I doubt not but ſome <hi>Scoffing Wits</hi> (who be<g ref="char:EOLhyphen"/>lieve no other Heaven but a <hi>Tavern,</hi> nor Devil but an <hi>empty Pocket</hi>) will cenſure it as an abominable <hi>untruth;</hi> but I hope you retain a better opinion of me than to ſuſpect I would go about to abuſe you with a <hi>Fiction.</hi> I am well ſatisfied of its <hi>Reality,</hi> and not a little aſſerted with ſo viſible a Judgment againſt oppreſſors of the poor and needy, againſt whom we find ſo many <hi>Woes</hi> pronounced in the <hi>Book of God;</hi> I intend next week to ſet forwards for <hi>Edinburgh,</hi> having ſome buſineſs which will de<g ref="char:EOLhyphen"/>tain me there till towards <hi>Michaelmaſs,</hi> If you will allow me the Honor of a few Lines from you. You may pleaſe to direct them to my old Lodging near the <hi>Toll-booth,</hi> for</p>
+            <closer>
+               <dateline>Glaſco <date>12th. of <hi>May.</hi> 1674.</date>
+               </dateline>
+               <signed>Your moſt humble and affecti<g ref="char:EOLhyphen"/>onate Friend and Servant<g ref="char:punc">▪</g> W. D.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
